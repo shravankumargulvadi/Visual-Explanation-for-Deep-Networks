@@ -1,2 +1,2 @@
-# Assignment-9
-This repository is for the contents of Assignment 9 
+# Visual Explanation for Deep Networks
+Generating class activation maps using GradCam method and interpreting the effect of Cut-out regularisation
